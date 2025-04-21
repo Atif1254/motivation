@@ -24,4 +24,4 @@ if st.button("Motivate Me!"):
         st.warning("⛔ Please fill out all the fields so I can motivate you!")
 
 st.write("---")
-st.caption("Made with ❤️ by Muhammad Yahya Rais using Streamlit")
+st.caption("Made by "ATIF AHMED"")
